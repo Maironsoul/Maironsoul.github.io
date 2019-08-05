@@ -1,0 +1,21 @@
+.title {
+    color: #2e2e2e;
+    font-size: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    &_form {
+        color: #3a3a3a;
+        font-size: 28px;
+        font-weight: 400;
+        text-align: center;
+        margin-top: 56px;
+    }
+}
+.subtitle {
+    color: #2e2e2e;
+    font-size: 21px;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 17px;
+}

@@ -79,6 +79,9 @@
         &_item {
             width: 262px;
             text-align: center;
+            img {
+                max-height: 50px;
+            }
         }
         &_text {
             color: #ffffff;

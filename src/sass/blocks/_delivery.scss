@@ -1,0 +1,28 @@
+.delivery {
+    min-height: 619px;
+    padding: 51px 0 57px 0;
+    &_wrapper {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 37px;
+        &_item {
+            width: 359px;
+            text-align: center;
+
+        }
+        &_title {
+            color: $main-color;
+            font-size: 18px;
+            font-weight: 700;
+            text-align: center;
+            margin-top: 28px;
+        }
+        &_text {
+            color: #3a3a3a;
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 22px;
+            margin-top: 17px;
+        }
+    }
+}
